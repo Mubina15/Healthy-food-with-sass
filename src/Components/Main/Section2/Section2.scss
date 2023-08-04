@@ -1,0 +1,60 @@
+.Main2 { 
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    &__container {
+        max-width: 1280px;
+        padding: 0 20px;
+        margin: 0 auto;
+    }
+
+    &__about {
+        font-family: "Roboto";
+        font-size: 16px;
+        font-weight: 500;
+        line-height: 24px;
+        letter-spacing: 0.2em;
+        text-align: left;
+        color: orange;        
+    }
+
+    &__div--title {
+        font-family: "Philosopher";
+        font-size: 31px;
+        font-weight: 700;
+        line-height: 41px;
+        letter-spacing: 0em;
+        text-align: left;   
+        width: 487px;    
+        margin-top: 10px; 
+    }
+
+    &__div--text {
+        font-family: "Roboto";
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 24px;
+        letter-spacing: 0em;
+        text-align: left; 
+        width: 487px;     
+        margin-top: 30px;  
+    }
+
+    &__div--link {
+        font-family: "Roboto";
+        font-size: 16px;
+        font-weight: 500;
+        line-height: 19px;
+        letter-spacing: 0em;
+        text-align: left;
+        border: none;
+        background-color: orange;
+        color: white;
+        padding: 10px 15px;
+        border-radius: 5px;
+        margin-right: 15px;
+        text-decoration: none;
+        margin-top: 29px;
+    }
+}

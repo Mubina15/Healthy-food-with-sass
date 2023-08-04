@@ -1,0 +1,57 @@
+.Main {
+
+
+
+    &__container4 {
+        max-width: 1280px;
+        padding: 0 20px;
+        margin: 0 auto;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+
+    &__Take {
+        color: #DC780B;
+        font-family: "Roboto";
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: 24px; 
+        letter-spacing: 3.2px;
+        text-transform: uppercase;
+    }
+
+    &__Stalls {
+        color: #150C01;
+        font-family: "Philosopher";
+        font-size: 31.25px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 40.625px; 
+        width: 555px;
+    }
+
+    &__person {
+        color: #150C01;
+        font-family: Roboto;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 24px;
+        width: 555px;
+    }
+
+    &__App {
+        margin-right: 15px;
+    }
+
+    &__sec {
+        background: #FBF1E7;
+        margin-top: 150px;
+    }
+
+    &__phone {
+        border-radius: 65px;
+    }
+}

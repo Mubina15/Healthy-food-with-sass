@@ -1,0 +1,87 @@
+.Main {
+
+    &__container5 {
+        max-width: 1280px;
+        padding: 0 20px;
+        margin: 0 auto;
+    }
+
+    &__Testi {
+        color: #DC780B;
+        text-align: center;
+        font-family: "Roboto";
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: 24px; /* 150% */
+        letter-spacing: 3.2px;
+        text-transform: uppercase;
+    }
+
+    &__Making {
+        color: #000;
+        font-family: "Philosopher";
+        font-size: 31.25px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 24px; /* 76.8% */
+        margin-left: 414px;
+    }
+
+    &__just {
+        color: #000;
+        text-align: center;
+        font-family: "Roboto";
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 24px; /* 150% */
+        width: 750px;
+        margin: 0 auto;
+    }
+
+    &__woman {
+    margin-left: 615px;
+    margin-top: 50px;
+    }
+
+    &__with {
+        color: #000;
+        text-align: center;
+        font-family: "Roboto";
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 24px; /* 150% */
+        width: 506px;
+        margin: 0 auto;
+    }
+
+    &__four {
+    margin-left: 615px;
+    margin-top: 20px;
+    }
+
+    &__reyno {
+        color: #000;
+        text-align: center;
+        font-family: "Roboto";
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+        text-transform: uppercase;
+    }
+
+    &__design {
+        color: #000;
+        font-family: "Roboto";
+        font-size: 12px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+        text-transform: uppercase;
+        text-align: center;
+    }
+
+}

@@ -1,0 +1,32 @@
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    &__container {
+        max-width: 1280px;
+        padding: 0 20px;
+        margin: 0 auto;
+    }
+
+    &__div {
+        display: flex;
+        align-items: center;
+    }
+
+    &__btn {
+        font-family: "Roboto";
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 19px;
+        letter-spacing: 0em;
+        text-align: left;
+        background-color: orange;
+        padding: 8px 15px;
+        border-radius: 5px;
+        outline: none;
+        border: none;
+        color: white;
+    }
+
+}

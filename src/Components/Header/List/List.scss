@@ -1,0 +1,13 @@
+.header {
+
+    &__list {
+        list-style-type: none;
+        display: flex;
+        align-items: center;
+    }
+
+    &__list:first-child {
+        color: orange;
+    }
+
+}

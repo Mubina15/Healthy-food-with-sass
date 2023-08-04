@@ -1,0 +1,45 @@
+.Footer {
+
+    &__container {
+        max-width: 1280px;
+        padding: 0 20px;
+        margin: 0 auto;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+
+    &__lists {
+        display: flex;
+        align-items: center;
+    }
+
+    &__list {
+        list-style-type: none;
+    }
+
+    &__item--link {
+        color: #FFF;
+        font-family: "Roboto";
+        font-size: 14px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+        opacity: 0.7;
+        text-decoration: none;
+    }
+
+    &__home {
+        color: #FFF;
+        font-family: "Philosopher";
+        font-size: 18px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: normal;
+    }
+
+}
+
+.Fott {
+    background: #252525;
+}

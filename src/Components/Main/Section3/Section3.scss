@@ -1,0 +1,108 @@
+.Main {
+
+    &__container3 {
+        max-width: 1280px;
+        padding: 0 20px;
+        margin: 0 auto;
+    }
+
+    &__menu {
+        font-family: "Roboto";
+        font-size: 16px;
+        font-weight: 500;
+        line-height: 24px;
+        letter-spacing: 0.2em;
+        text-align: center;
+        color: orange;
+        margin-top: 81px;
+    }
+
+    &__card {
+        border: 1px solid rgba(0, 0, 0, 0.1);
+        display: inline-block;
+        border-top-left-radius: 100px;
+        border-top-right-radius: 10px;
+        padding-bottom: 10px;
+        margin-top: 60px;
+        margin-right: 10px;
+    }
+
+    &__more {
+        color: #DC780B;
+        font-family: "Roboto";
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: normal;
+        text-decoration: none;
+        border-radius: 5px;
+        border: 1px solid #DC780B;
+        padding: 5px 8px;
+        opacity: 0.6;
+        text-align: center;
+        margin-left: 570px;
+    }
+
+    &__cards {
+        margin-bottom: 50px;
+    }
+
+    &__treaty {
+        font-family: "Roboto";
+        font-size: 16px;
+        font-weight: 500;
+        line-height: 24px;
+        letter-spacing: 0.2em;
+        text-align: center;
+    }
+
+    &__span {
+        margin-left: 205px;
+    }
+
+    &__plus {
+        background-color: orange;
+        padding: 10px;
+        border-radius: 5px;
+        margin-right: 285px;
+        margin-left: 5px;
+    }
+
+    &__img--rotate {
+        display: flex;
+        align-items: center;
+    }
+
+    &__treaty--text {
+        font-family: "Roboto";
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 24px;
+        letter-spacing: 0em;
+        text-align: center;
+        width: 784px;
+        margin: 0 auto;
+    }
+
+    &__salat--text {
+        font-family: "Roboto";
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 24px;
+        letter-spacing: 0em;
+        text-align: left;
+        width: 310px;
+        margin-left: 5px;
+    }
+
+    &__vegie {
+        font-family: "Philosopher";
+        font-size: 25px;
+        font-weight: 700;
+        line-height: 24px;
+        letter-spacing: 0em;
+        text-align: left;
+        margin-left: 5px;
+    }
+
+}
